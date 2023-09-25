@@ -1,0 +1,30 @@
+/* Review Styles */
+.review {
+    /* background-color: #fff; */
+    padding: 20px;
+    margin: 20px 0;
+    /* border: 1px solid #ddd; */
+    border-radius: 5px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    text-align: left;
+}
+
+.review h2 {
+    font-size: 28px;
+    margin-top: 0;
+    color: #333;
+}
+
+.review p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.review img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}

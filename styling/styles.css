@@ -1,12 +1,14 @@
-/* Reset some default styles and set a background color */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono:wght@300&display=swap');
+
 body, h1, h2, h3, p {
     margin: 0;
     padding: 0;
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background: url('../assets/background-model.jpg') no-repeat center center fixed; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    background: url('../assets/bg-testing.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
